@@ -1,0 +1,29 @@
+	{
+	"metaDescription": "The National Gallery, London, Scientific Department, is involved with research within a wide range of fields, this page presents an example of some of the work carried out.",
+	"metaKeywords": "The National Gallery, London, National Gallery London, Scientific, Research, Heritage, Culture",
+	"metaAuthor": "Joseph Padfield| joseph.padfield@ng-london.org.uk |National Gallery | London UK | website@ng-london.org.uk |www.nationalgallery.org.uk",
+	"metaTitle": "ARTICT",
+	"metaFavIcon": "https://www.nationalgallery.org.uk/custom/ng/img/icons/favicon.ico",
+	"logo_link": "https://github.com/jpadfield/artict",
+   "licence": "<a href='http://rightsstatements.org/vocab/InC-EDU/1.0/'><img height='16' alt='In Copyright - Educational Use Permitted' title='In Copyright - Educational Use Permitted' src='graphics/InC-EDU.dark-white-interior-blue-type.png'/></a><a rel='license' href='http://creativecommons.org/licenses/by-nc/4.0/'><img alt='Creative Commons Licence' style='border-width:0' src='https://i.creativecommons.org/l/by-nc/4.0/88x31.png' /></a>",
+   "logo_path": "graphics/github logo white.png",
+   "footer": "<a href='https://epsrc.ukri.org/'><img alt='EPSRC UKRI' style='border-width:0;height:31px;' src='graphics/UKRI_EPSR_Council-Logo_Horiz-RGB.png' /></a>",
+   "extra_logos": {
+		"NG": {
+			"link": "https://www.nationalgallery.org.uk/",
+			"logo": "graphics/ng-logo-white-100x40.png",
+			"alt": "The National Gallery"},
+		"UCL": {
+			"link": "https://www.ucl.ac.uk/",
+			"logo": "graphics/UCL_logo.png",
+			"alt": "University College London"},
+		"Imperial": {
+			"link": "https://www.imperial.ac.uk/",
+			"logo": "graphics/Imperial.png",
+			"alt": "Imperial College London"}
+		},
+		"extra_js_scripts": [],
+		"extra_css_scripts": [],
+		"extra_css": "",
+		"extra_js": ""
+	}

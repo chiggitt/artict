@@ -1,0 +1,74 @@
+{
+"home": {
+	"title": "ARTICT | Art Through the ICT Lens: Big Data Processing Tools to Support the Technical Study, Preservation and Conservation of Old Master Paintings​",
+	"content": "<h3>EPSRC-funded research partnership between University College London, Imperial College London and the National Gallery</h3><br/><p>The heritage science sector is experiencing a digital revolution linked to the emergence and increasing adoption of cutting-edge non-invasive analytical imaging techniques generating large volumes of multidimensional data from cultural heritage objects. These include macro X-Ray fluorescence (MA-XRF) scanning and hyperspectral imaging (HSI). Combining MA-XRF and HSI data - providing elemental and molecular information - offers huge potential for improved identification, characterization, and visualisation of the materials and features of interest in a painting, including in sub-surface layers of the painting. However, it is increasingly recognised that the wealth of data associated with these modalities cannot be fully exploited through traditional primarily manual approaches to interrogating heritage science data.</p><p>The aim of this research - bringing together ICT and Heritage Science researchers to enable the cross-pollination of ideas and expertise - is to co-create new automatic signal analysis and processing tools that are able to <i>fuse</i> MA-XRF and HSI data to support the technical study, conservation and preservation artwork.</p><p>For more information about the project see the <a href=\"https://gtr.ukri.org/projects?ref=EP%2FR032785%2F1\">UKRI</a> and <a href=\"https://gow.epsrc.ukri.org/NGBOViewGrant.aspx?GrantRef=EP/R032785/1\">EPSRC</a> webpages about the project.</p>",
+	"footnotes": [],
+	"content right": "<img style=\"position:relative;width:100%;\" src=\"graphics/ARTICT_Goya.png\"/>"
+	},
+"events": {
+	"title": "ARTICT | Art Through the ICT Lens: Big Data Processing Tools to Support the Technical Study, Preservation and Conservation of Old Master Paintings",
+	"content": "<b>A number of events are planned as part of the ARTICT project. Please see below for links</b>",
+	"footnotes": [],
+	"content right": ""
+	},
+"data and tools": {
+	"title": "ARTICT | Art Through the ICT Lens: Big Data Processing Tools to Support the Technical Study, Preservation and Conservation of Old Master Paintings",
+	"content": "<h2>Data and tools</h2><p>This page will be used to share datasets and tools developed within the project. Links to other useful resources and outputs will also be provided.</p>",
+	"footnotes": [],
+	"content right": ""
+	},
+"about": {
+	"title": "ARTICT | Art Through the ICT Lens: Big Data Processing Tools to Support the Technical Study, Preservation and Conservation of Old Master Paintings",
+	"content": "<h2>About</h2><p>For more information about the ARTICT project please visit the main project website (link coming soon).</p><h2>Team</h2><p><b>Investigators</b>: Miguel Rodrigues, University College London (Principal investigator); Pier Luigi Dragotti, Imperial College London (Co-investigator) and Catherine Higgitt, National Gallery (Co-investigator)</p><p><b>University College London team</b>: Cerys Jones, Wei Pu and Chao Zhou (in alphabetical order)<p/><p><b>Imperial College London team</b>: Junjie Huang, Maria Villafane and Su Yan (in alphabetical order);<p/><p><b>National Gallery team</b>: Nathan Daly, Joseph Padfield and David Peggie (in alphabetical order).</p><p><b>Project partners</b>: Duke University (Ingrid Daubechies, Barak Sober and Ashley Kwon) and Bruker Nano Analytics</p><h2>Contacts</h2><p>Please feel free to contact any of the investigators listed above or members of their teams. For more information about the <i>Computational approaches for technical imaging in cultural heritage (7th IP4AI meeting) conference</i>, please click <a href=\"https://research.ng-london.org.uk/external/ARTICT/events.html\">here</a></p><p>For all enquires about this conference, please use the conference email address: <a href=\"mailto:artict@ng-london.org.uk?Subject=ARTICT%20conference\" target=\"_top\">artict@ng-london.org.uk</a></p>",
+	"footnotes": [],
+	"content right": ""		
+	},
+  "Computational approaches for technical imaging": {
+		"parent": "events",
+		"title": "Conference: Computational approaches for technical imaging in cultural heritage (7th IP4AI meeting)",
+		"content": "<p><b>In light of the current COVID-19 situation the decision has been made to postpone this conference to April 2021 and the revised dates are detailed below</b><br/><b>8-9 April 2021</b><br/><b>The National Gallery, London, UK</b></p><br/><p>With the increasing use of a range of advanced technical imaging and spectroscopic imaging in the study and preservation of artworks and other cultural heritage artefacts, there is growing interest in and need for computational approaches to fully realise the potential in the data acquired and be able to address research questions in a variety of disciplines. This is a rapidly growing field of research that is only possible through cross-disciplinary collaboration.</p><p>The aim of this conference is to provide a forum to bring together a multi-disciplinary group of researchers including:</p><ul><li>scientists and conservators working with various forms of technical imaging or spectroscopic imaging on paintings and other cultural heritage artefacts in museums, galleries and universities</li><li>researchers working in computer science, computational image processing, machine learning, mathematics, and statistics</li><li>art historians, archaeologists and curators with an interest in the possibilities of technical imaging and/or those working in the digital humanities</li></ul><p>to share their research and find fertile areas of collaboration and common inquiry.</p><p>The conference is being held in London and at the National Gallery in the hope of encouraging an international attendance from both academic researchers and professionals working in cultural heritage organisations.</p><p>The conference is being organised as part of the EPSRC-funded <a href=\"./\">ARTICT | Art Through the ICT Lens: Big Data Processing Tools to Support the Technical Study, Preservation and Conservation of Old Master Paintings</a> project (a collaboration between the National Gallery, University College London and Imperial College London) and builds on the success of the <a href=\"https://www.ip4ai.ugent.be/\">Image processing for art investigation (IP4AI)</a> workshops, <a href=\"https://services.math.duke.edu/~ingrid/publications/paper_Bridges.pdf\">first established in 2007</a>. The aim of IP4AI is to support art scholarship with new computational tools that enable new findings.</p>",
+	"content right": "<img style=\"position:relative;width:100%;\" src=\"graphics/ARTICT_conf_NG1473_v6.jpg\"/>"
+		},
+	"call for papers": {
+		"parent": "Computational approaches for technical imaging",
+		"title": "Call for papers",
+		"content": "<p>We invite papers featuring both cutting-edge research based on applying computational approaches for technical imaging in cultural heritage and more preliminary research highlighting open problems and challenges in this rapidly evolving field. Topics for contributions might include:</p><ul><li>Advances in the application of technical imaging and spectroscopic imaging techniques (including MA-XRF, reflectance imaging spectroscopy, ATR-FTIR imaging, SEM-EDX, OCT imaging etc) in cultural heritage​</li><li>Multi-modal image and signal processing and combined use of spectroscopic imaging techniques​</li><li>Data deconvolution and image separation​</li><li>Registration, mosaicking and fusion of images and datacubes​</li><li>Approaches to data visualisation​</li><li>Image recognition​</li><li>Statistical and multivariate approaches to data analysis, interpretation and visualisation​</li><li>Machine learning, deep learning and AI approaches to data analysis, interpretation and visualisation</li><li>Novel algorithms, computational tools and software for cultural heritage applications</li><li>Case studies in conservation, art and archaeology (particularly those employing multiple analytical methods or novel computational approaches)​</li></ul><p>Please submit an abstract of up to 500 words (approx. 1 page). Abstracts should include a clear title, full list of authors and their affiliations and a brief summary of the work, with a few key references if needed. Please indicate if an oral or poster presentation would be preferred.​</p><p>Please send the abstracts by e-mail to <a href=\"mailto:artict@ng-london.org.uk?Subject=Abstract\" target=\"_top\">artict@ng-london.org.uk</a>​</p><p>Deadline: 30 September 2020​ [for those who have already submitted an abstract these will continue to be considered or updated versions can be submitted to the new deadline]</p><p>All accepted contributions will be incorporated into a proceedings",
+	"content right": ""
+		},
+	"key dates": {
+		"parent": "Computational approaches for technical imaging",
+		"title": "Key dates",
+		"content": "<p>In light of the current COVID-19 situation the decision has been made to postpone this conference until April 2021 and the revised schedule is detailed below</p><ul><li>Abstracts due: 30 September 2020​​</li><li>Acceptance notification: end October 2020​​</li><li>Registration: more details to follow​​</li><li>Conference: 8-9 April 2021​</li></ul>",
+	"content right": ""
+		},
+	"programme": {
+		"parent": "Computational approaches for technical imaging",
+		"title": "Programme",
+		"content": "<p>The conference programme is still being developed but the two-day event will include a mix of invited speakers and presentations and posters selected based on an open call for papers. It is also hoped to include some demonstrations of software or algorithms that have been developed for use in this area</p>",
+	"content right": ""
+		},
+	"registration": {
+		"parent": "Computational approaches for technical imaging",
+		"title": "Registration",
+		"content": "<p>The registration is free of charge but required to provide access to the workshop location</p><p>More details to follow</p>",
+	"content right": ""
+		},
+	"committees": {
+		"parent": "Computational approaches for technical imaging",
+		"title": "Organizing and Scientific committees",
+		"content": "<p><b>Organizing committee:</b></p><p><ul><li>Catherine Higgitt, Nathan Daly, Ann Stephenson-Wright and Tess Raven: National Gallery</li><li>Miguel Rodrigues, Cerys Jones, Wei Pu and Chao Zhou: University College London</li><li>Pier Luigi Dragotti, Junjie Huang, Su Yan and Maria Villafane: Imperial College London</li><li>Ingrid Daubechies, Barak Sober and Ashley Kwon: Duke University</li></ul></p><p>  </p><p>  </p><p>  </p><p>  </p><p><b>Scientific committee:</b></p><p>More details coming soon</p>",
+	"content right": "<img style=\"position:relative;width:100%;\" src=\"graphics/logos.png\"/>"
+		},
+	"hotels and travel": {
+		"parent": "Computational approaches for technical imaging",
+		"title": "Hotel and travel information",
+		"content": "<p>Further information to follow</p>",
+	"content right": ""
+		},
+	"contact": {
+		"parent": "Computational approaches for technical imaging",
+		"title": "Venue and contact information",
+		"content": "<p>For all enquiries, please use the conference email address: <a href=\"mailto:artict@ng-london.org.uk?Subject=Abstract\" target=\"_top\">artict@ng-london.org.uk</a>​​</p><p>The conference will be held in the <a href=\"https://www.nationalgallery.org.uk/visiting/floorplans/sainsbury-wing/sainsbury-wing-theatre/\">Sainsbury Wing Lecture Theatre</a> and <a href=\"https://www.nationalgallery.org.uk/visiting/floorplans/sainsbury-wing/sainsbury-wing-conference-rooms/\">Conference rooms</a> at the <a href=\"https://www.nationalgallery.org.uk/visiting/plan-your-visit/\">National Gallery, London</a></p><p>The National Gallery​</p><p>Trafalgar Square</p><p>London​</p><p>WC2N 5DN​</p>",
+	"content right": ""
+		}
+}
