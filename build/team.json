@@ -115,6 +115,14 @@
 	"image": "graphics/people/AshleyKwonPhotoBW.jpg",
 	"checked": "",
 	"link": ""
+}, {
+	"groups": ["Undergraduate Student"],
+	"ptitle": "Wallace Peaslee",
+	"stitle": "Undergraduate Student - Duke University",
+	"comment": "Wallace Peaslee is an undergraduate majoring in mathematics and computer science at Duke University. Within ARTICT, his focus is on extracting underdrawings, especially by developing methods and automated tools that utilize hyperspectral images.",
+	"image": "graphics/people/WallacePeasleePhotoBW.jpg",
+	"checked": "",
+	"link": ""
 }]
 	
 }
