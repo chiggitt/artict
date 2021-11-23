@@ -4,8 +4,12 @@
   "tableofcontents": true,
   "groups": {
     "Publications" : {
-      "comment": "This the most complex formatting provided presenting all of the main details in an interactive card like presentation",
-      "card": "list2"}
+      "comment": "Articles produced by the project team.",
+      "card": "list2"},
+		"Presentations": {
+			"comment": "Public presentation describing or linked to the project.",
+			"card": "list2"
+}
     	},
   "list": [{
 	"groups": ["Publications"],
@@ -37,11 +41,17 @@
 	"link": "https://advances.sciencemag.org/content/5/8/eaaw7416"
 },{
 	"groups": ["Publications"],
-	"ptitle": "Revealing Hidden Drawings in Leonardo’s ‘the Virgin of the Rocks’ from Macro X-Ray Fluorescence Scanning Data through Element Line Localisation",
-	"stitle": "Multi-Modal Dictionary Learning for Image Separation With Application In Art Investigation",
+	"ptitle": "Multi-Modal Dictionary Learning for Image Separation With Application In Art Investigation",
+	"stitle": "N. Deligiannis, J. F. C. Mota, B. Cornelis, M. R. D. Rodrigues, and I. Daubechies",
 	"comment": "IEEE Transactions on Image Processing, 2016.",
 	"checked": "",
-	"link": "https://ieeexplore.ieee.org/document/7725950"
+	"link": "href='https://ieeexplore.ieee.org/document/7725950"
+},{
+	"groups": ["Presentations"],
+	"ptitle": "Science Breaks: When art meets science",
+	"stitle": "Pier Luigi Dragotti",
+	"comment": "Join Professor Pier Luigi Dragotti to hear about his work with the National Gallery and his AI augmented chemical analysis of Leonardo Da Vinci’s Virgin of the Rocks. 10 September 2020.",
+	"link": "https://www.youtube.com/watch?v=4pKXXRWbOVI"
 }]
 	
 }
