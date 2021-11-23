@@ -37,7 +37,8 @@
 	"publications": {
 		"class": "list",
 		"title": "ARTICT | Publications",
-		"content": "<h2>Publications</h2><p>[1] S. Yan, J. Huang, N. Daly, C. Higgitt and P. L. Dragotti, <a href='https://ieeexplore.ieee.org/document/9054460'>Revealing Hidden Drawings in Leonardo’s ‘the Virgin of the Rocks’ from Macro X-Ray Fluorescence Scanning Data through Element Line Localisation</a>, IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), May 2020.</p><p>[2] W. Pu, B. Sober, N. Daly, C. Higgitt, I. Daubechies, M. R. D. Rodrigues. <a href='https://ieeexplore.ieee.org/document/9054651'>A connected auto-encoders based approach for image separation with side information: with applications to art investigation</a>. IEEE International Conference on Acoustics, Speech and Signal Processing, 2020.</p><p>[3] Z. Sabetsarvestani, F. Renna, F. Kiraly and M. R. D. Rodrigues. <a href='https://ieeexplore.ieee.org/document/8950399'>Source Separation with Side Information Based on Gaussian Mixture Models With Application in Art Investigation</a>. IEEE Transactions on Signal Processing, 2020.</p><p>[4] Z. Sabetsarvestani, B. Sober, C. Higgitt, I. Daubechies, and M. R. D. Rodrigues. <a href='https://advances.sciencemag.org/content/5/8/eaaw7416'>Artificial intelligence for art investigation: Meeting the challenge of separating x-ray images of the Ghent Altarpiece</a>. Science Advances, 2019.</p><p>[5] N. Deligiannis, J. F. C. Mota, B. Cornelis, M. R. D. Rodrigues, and I. Daubechies. <a href='https://ieeexplore.ieee.org/document/7725950'>Multi-Modal Dictionary Learning for Image Separation With Application In Art Investigation</a>. IEEE Transactions on Image Processing, 2016.</p>",
+		"file": "pub-list.json",
+		"content": "[##]",
 		"content right": ""
 	},
 	"data and tools": {

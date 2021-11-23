@@ -6,57 +6,119 @@
     <meta name="description" content="The National Gallery, London, Scientific Department, is involved with research within a wide range of fields, this page presents an example of some of the work carried out." />
 		<meta name="keywords" content="The National Gallery, London, National Gallery London, Scientific, Research, Heritage, Culture" />
     <meta name="author" content="Joseph Padfield| joseph.padfield@ng-london.org.uk |National Gallery | London UK | website@ng-london.org.uk |www.nationalgallery.org.uk" />
+    <meta name="image" content="" />
     <link rel="icon" href="https://www.nationalgallery.org.uk/custom/ng/img/icons/favicon.ico">
-    <title>ARTICT</title>
+    <title>ARTICT - programme</title>
     
-	<link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css" rel="stylesheet" type="text/css">
-	<link href="https://unpkg.com/bootstrap@4.4.1/dist/css/bootstrap.min.css" rel="stylesheet" type="text/css">
+	<link href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.15.3/css/all.min.css" integrity="sha256-2H3fkXt6FEmrReK448mDVGKb3WW2ZZw35gI7vqHOE4Y=" crossorigin="anonymous" rel="stylesheet" type="text/css">
+	<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.1/dist/css/bootstrap.css" integrity="sha256-BNdodQbWHpU3HT8xGhkEusT4ch4HEjvwzcbDcVuHR+E=" crossorigin="anonymous" rel="stylesheet" type="text/css">
+	<link href="https://cdn.jsdelivr.net/npm/jquery.json-viewer@1.4.0/json-viewer/jquery.json-viewer.css" integrity="sha256-rXfxviikI1RGZM3px6piq9ZL0YZuO5ETcO8+toY+DDY=" crossorigin="anonymous" rel="stylesheet" type="text/css">
+	<link href="https://cdn.jsdelivr.net/npm/highlight.js@11.2.0/styles/github.css" integrity="sha256-Oppd74ucMR5a5Dq96FxjEzGF7tTw2fZ/6ksAqDCM8GY=" crossorigin="anonymous" rel="stylesheet" type="text/css">
 	<link href="css/main.css" rel="stylesheet" type="text/css">
     <style>
     
     </style>
+    
   </head>
 
-  <body onload="onLoad();">
-		<div class="container">
-			<nav class="navbar navbar-expand-lg navbar-dark bg-dark fixed-top">
-      <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarsExampleDefault" aria-controls="navbarsExampleDefault" aria-expanded="false" aria-label="Toggle navigation">
+<body onload="onLoad();">
+	<div id="wrap" class="container h-100">
+		
+		<nav class="navbar navbar-expand-lg navbar-dark bg-dark fixed-top">
+<div class="container-fluid">
+      <button 
+				class="navbar-toggler navbar-toggler-right" 
+				type="button" 
+				data-bs-toggle="collapse" 
+				data-bs-target="#navbarsExampleDefault" 
+				aria-controls="navbarsExampleDefault" 
+				aria-expanded="false" 
+				aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
-      </button>
+      </button>    
       <a class="navbar-brand"  href="https://github.com/jpadfield/artict">
   		<img id="page-logo" class="logo" title="Logo" src="graphics/github logo white.png" 
 				style="" alt="The National Gallery"/>
 		  </a>
 			<div class="collapse navbar-collapse" id="navbarsExampleDefault"><ul class="navbar-nav">
-<li class="nav-item "><a class="nav-link" href="index.html">Home</a></li><li class="nav-item "><a class="nav-link" href="team.html">Team</a></li><!-- Dropdown Loop 1 --><li class="nav-item dropdown "><a id="dropdownMenu1" href="#" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" class="nav-link dropdown-toggle" title="Click to open the Case studies menu" >Case studies</a><ul aria-labelledby="dropdownMenu1" class="dropdown-menu border-0 shadow"><li><a href="case%20studies.html" class="dropdown-item top-item" title="Click to open the Case studies page">Case studies</a></li><li class="dropdown-divider"></li><li><a href="case%20study%20one.html" class="dropdown-item">Case study one</a></li><li><a href="case%20study%20two.html" class="dropdown-item">Case study two</a></li><li><a href="case%20study%20three.html" class="dropdown-item">Case study three</a></li></ul></li><!-- End Loop 1 --><li class="nav-item "><a class="nav-link" href="publications.html">Publications</a></li><li class="nav-item "><a class="nav-link" href="data%20and%20tools.html">Data and tools</a></li><!-- Dropdown Loop 1 --><li class="nav-item dropdown "><a id="dropdownMenu1" href="#" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" class="nav-link dropdown-toggle" title="Click to open the Conference menu" >Conference</a><ul aria-labelledby="dropdownMenu1" class="dropdown-menu border-0 shadow"><li><a href="Conference.html" class="dropdown-item top-item" title="Click to open the Conference page">Conference</a></li><li class="dropdown-divider"></li><li><a href="call%20for%20papers.html" class="dropdown-item">Call for papers</a></li></ul></li><!-- End Loop 1 --></ul></div>
-			
-    <span class="navbar-text">
-      			<a href="https://www.nationalgallery.org.uk//">
+
+<!-- Start Normal Item 1 -->
+<li class="nav-item "><a class="nav-link" style="white-space:nowrap;" href="home.html">Home</a>
+</li>
+<!-- End Normal Item 1 -->
+
+<!-- Start Normal Item 2 -->
+<li class="nav-item "><a class="nav-link" style="white-space:nowrap;" href="team.html">Team</a>
+</li>
+<!-- End Normal Item 2 -->
+
+<!-- Start Normal Item 3 -->
+<li class="nav-item "><a class="nav-link" style="white-space:nowrap;" href="case_studies.html">Case studies</a>
+</li>
+<!-- End Normal Item 3 -->
+
+<!-- Start Normal Item 4 -->
+<li class="nav-item "><a class="nav-link" style="white-space:nowrap;" href="publications.html">Publications</a>
+</li>
+<!-- End Normal Item 4 -->
+
+<!-- Start Normal Item 5 -->
+<li class="nav-item "><a class="nav-link" style="white-space:nowrap;" href="data_and_tools.html">Data and tools</a>
+</li>
+<!-- End Normal Item 5 -->
+
+<!-- Start Loop Item 6 -->
+<li class="nav-item dropdown ">
+<div class="btn-group"><a href="Conference.html" class="nav-link" style="white-space:nowrap;" title="Click to open the &ldquo;Conference&rdquo; page">
+  Conference</a><button type="button" class="btn nav-link dropdown-toggle dropdown-toggle-split" data-bs-toggle="dropdown" aria-expanded="false"  title="Click to open the &ldquo;Conference&rdquo; menu">
+    <span class="visually-hidden">Toggle Dropdown</span>
+  </button>
+	<ul class="dropdown-menu"><li><a href="call_for_papers.html" class="dropdown-item">Call for papers</a></li>
+	</ul>
+</div>
+</li>
+<!-- End Loop Item 6 -->
+</ul><span class="navbar-text w-100">			<a href="https://www.nationalgallery.org.uk//" class="float-end">
 				<img id="ex-logo1" class="logo" title="NG" src="graphics/ng-logo-white-100x40.png" 
 				style="" alt="The National Gallery"/>
-		  </a>			<a href="https://www.ucl.ac.uk//">
+		  </a>			<a href="https://www.ucl.ac.uk//" class="float-end">
 				<img id="ex-logo2" class="logo" title="UCL" src="graphics/UCL_logo.png" 
 				style="" alt="University College London"/>
-		  </a>			<a href="https://www.imperial.ac.uk//">
+		  </a>			<a href="https://www.imperial.ac.uk//" class="float-end">
 				<img id="ex-logo3" class="logo" title="Imperial" src="graphics/Imperial.png" 
 				style="" alt="Imperial College London"/>
-		  </a>
-    </span>
+		  </a></span></div>
+</div>
     </nav>
-			<div class="row ">				
-			 <div class="col-12 col-md-12">          
-				
-				<div class="jumbotron"><h2>Programme</h2></div><div class="row"><div class="col-12 col-lg-12">		<nav aria-label="breadcrumb">
-			<ol class="breadcrumb">
-				<li class="breadcrumb-item"><a href="Computational%20approaches%20for%20technical%20imaging.html">Computational approaches for technical imaging</a></li>
+		
+		<div class="row " style="padding-top:80px; padding-bottom:40px; min-height:100%;">				
+			<div class="col-12 col-md-12">  
+				<div class="h-100 d-flex flex-column"> 
+					
+					
+<!-- Start SimpleBDGrid -->
+<div class="p-2 bg-light border rounded-3 jumbotron">
+      <div class="container-fluid py-2"><h3 style="margin-bottom:0px;">Programme</h3></div></div><div class="container-fluid "><div class="row h-100"><div class="col-12">							
+								<div class="h-100 d-flex flex-column">
+									<div class="alert alert-light" role="alert" style="padding:0.5rem 0.5rem 0px 0.5rem;border-color:#dee2e6;">
+		<nav  style="--bs-breadcrumb-divider: '>';" aria-label="breadcrumb">
+			<ol class="breadcrumb" style="margin-bottom:0.5rem;">
+				<li class="breadcrumb-item"><a href="Computational%20approaches%20for%20technical%20imaging.html">Computational approaches for technical imaging</a></li><li class="breadcrumb-item active" aria-current="page">Programme</li>
 			</ol>
-		</nav></div><!--/span--></div><!--/row-->    <div class="row"><div class="col-12 col-lg-12"><p>The conference programme is still being developed but the two-day event will include a mix of invited speakers and presentations and posters selected based on an open call for papers. It is also hoped to include some demonstrations of software or algorithms that have been developed for use in this area</p><div class="foonote"><ul></ul></div></div><!--/span--></div><!--/row-->    <br/>
-			</div><!--/span-->
+		</nav>
+		</div>
+						</div></div><!--/span--></div></div><!--/row-->    <div class="container-fluid "><div class="row h-100"><div class="col-12 flex-grow-1">							
+								<div class="h-100 d-flex flex-column">
+							<p>The conference programme is still being developed but the two-day event will include a mix of invited speakers and presentations and posters selected based on an open call for papers. It is also hoped to include some demonstrations of software or algorithms that have been developed for use in this area</p><div class="foonote"><ul></ul></div>
+						</div></div><!--/span--></div></div><!--/row-->    
+<!-- End SimpleBDGrid -->
+
+			</div></div><!--/span-->
 			
 			
-			</div><!--/row-->
+		</div><!--/row-->
 			
-			  <footer>
+		  <footer class="fixed-bottom bg-light">
 		<div class="container-fluid">
 			<div class="row">
 				<div class="col-5" style="text-align:left;"><a href='https://epsrc.ukri.org/'><img alt='EPSRC UKRI' style='border-width:0;height:31px;' src='graphics/UKRI_EPSR_Council-Logo_Horiz-RGB.png' /></a></div>
@@ -65,16 +127,50 @@
 			</div>
 		</div>        
   </footer>
-    </div><!--/.container-->
     
+	</div><!--/.container-->
     
-	<script src="https://unpkg.com/jquery@3.4.1/dist/jquery.min.js"></script>
-	<script src="https://unpkg.com/tether@1.4.7/dist/js/tether.min.js"></script>
-	<script src="https://unpkg.com/bootstrap@4.4.1/dist/js/bootstrap.bundle.min.js"></script>
-    <script>
+	
+	<script src="https://cdn.jsdelivr.net/npm/jquery@3.6.0/dist/jquery.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
+	<script src="https://cdn.jsdelivr.net/npm/tether@2.0.0/dist/js/tether.min.js" integrity="sha256-cExSEm1VrovuDNOSgLk0xLue2IXxIvbKV1gXuCqKPLE=" crossorigin="anonymous"></script>
+	<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.1/dist/js/bootstrap.min.js" integrity="sha256-d+FygkWgwt59CFkWPuCB4RE6p1/WiUYCy16w1+c5vKk=" crossorigin="anonymous"></script>
+	<script src="https://cdn.jsdelivr.net/npm/jquery.json-viewer@1.4.0/json-viewer/jquery.json-viewer.js" integrity="sha256-klSHtWPkZv4zG4darvDEpAQ9hJFDqNbQrM+xDChm8Fo=" crossorigin="anonymous"></script>
+	<script src="https://cdn.jsdelivr.net/gh/highlightjs/cdn-release@11.2.0/build/highlight.min.js"></script>
+	<script>
+		
+		
+		function onLoad() {
+			hljs.highlightAll();			
+	$('pre.json-renderer').each(function(index, value) {			
+			var vtext = $(value).text()
+			var jsonResult;
 			
-			function onLoad() {
-				$(function() {
+			try {jsonResult = JSON.parse(vtext);}
+			catch (e) {
+				//console.log("\""+vtext+"\" " + "is not valid JSON: "+e);
+				};
+		
+			if (jsonResult) {$(value).jsonViewer(jsonResult);}
+			else
+				{let vurl = new URL(vtext);
+				 if (vurl.origin != "null") {
+				 $.getJSON({
+						url: vtext
+						}).done(function (result, status, xhr) {
+								$(value).jsonViewer(result)
+								}).fail(function (xhr, status, error) {									
+									$(value).jsonViewer(JSON.parse('{"string":"'+vtext+
+										'","error":"The supplied text does not seems to be' +
+										' valid JSON or a valid URL"}'));
+									});
+							}
+				else
+					{$(value).jsonViewer(JSON.parse('{"string":"'+vtext+
+					 '","error":"The supplied text does not seems to be valid '+
+					 'JSON or a valid URL"}'));}
+				}		
+		});
+		$(function() {
   // ------------------------------------------------------- //
   // Multi Level dropdowns
   // ------------------------------------------------------ //
@@ -94,7 +190,8 @@
 
   });
 });
-				}
-    </script>
-  </body>
+			}
+	</script>
+</body>
+
 </html>

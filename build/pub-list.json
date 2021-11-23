@@ -1,0 +1,47 @@
+{
+  "defaultcard": "list",
+  "displaychecked": true,
+  "tableofcontents": true,
+  "groups": {
+    "Publications" : {
+      "comment": "This the most complex formatting provided presenting all of the main details in an interactive card like presentation",
+      "card": "list2"}
+    	},
+  "list": [{
+	"groups": ["Publications"],
+	"ptitle": "Revealing Hidden Drawings in Leonardo’s ‘the Virgin of the Rocks’ from Macro X-Ray Fluorescence Scanning Data through Element Line Localisation",
+	"stitle": "S. Yan, J. Huang, N. Daly, C. Higgitt and P. L. Dragotti",
+	"comment": "IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), May 2020.",
+	"checked": "",
+	"link": "https://ieeexplore.ieee.org/document/9054460"
+},{
+	"groups": ["Publications"],
+	"ptitle": "A connected auto-encoders based approach for image separation with side information: with applications to art investigation",
+	"stitle": "W. Pu, B. Sober, N. Daly, C. Higgitt, I. Daubechies, M. R. D. Rodrigues",
+	"comment": "IEEE International Conference on Acoustics, Speech and Signal Processing, 2020.",
+	"checked": "",
+	"link": "https://ieeexplore.ieee.org/document/9054651"
+},{
+	"groups": ["Publications"],
+	"ptitle": "Source Separation with Side Information Based on Gaussian Mixture Models With Application in Art Investigation",
+	"stitle": "Z. Sabetsarvestani, F. Renna, F. Kiraly and M. R. D. Rodrigues",
+	"comment": "IEEE Transactions on Signal Processing, 2020.",
+	"checked": "",
+	"link": "https://ieeexplore.ieee.org/document/8950399"
+},{
+	"groups": ["Publications"],
+	"ptitle": "Artificial intelligence for art investigation: Meeting the challenge of separating x-ray images of the Ghent Altarpiece",
+	"stitle": "Z. Sabetsarvestani, B. Sober, C. Higgitt, I. Daubechies, and M. R. D. Rodrigues",
+	"comment": "Science Advances, 2019.",
+	"checked": "",
+	"link": "https://advances.sciencemag.org/content/5/8/eaaw7416"
+},{
+	"groups": ["Publications"],
+	"ptitle": "Revealing Hidden Drawings in Leonardo’s ‘the Virgin of the Rocks’ from Macro X-Ray Fluorescence Scanning Data through Element Line Localisation",
+	"stitle": "Multi-Modal Dictionary Learning for Image Separation With Application In Art Investigation",
+	"comment": "IEEE Transactions on Image Processing, 2016.",
+	"checked": "",
+	"link": "https://ieeexplore.ieee.org/document/7725950"
+}]
+	
+}
