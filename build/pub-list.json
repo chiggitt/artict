@@ -8,6 +8,10 @@
       "card": "list2"},
 		"Presentations": {
 			"comment": "Public presentation describing or linked to the project.",
+			"card": "presentation"
+},
+		"News": {
+			"comment": "Related News Articles.",
 			"card": "list2"
 }
     	},
@@ -47,11 +51,72 @@
 	"checked": "",
 	"link": "href='https://ieeexplore.ieee.org/document/7725950"
 },{
+	"groups": ["Publications"],
+	"ptitle": "When de Prony met Leonardo: An automatic algorithm for chemical element extraction from macro X-Ray Fluorescence Data",
+	"stitle": "Su Yan, Junjie Huang, Nathan Daly, Catherine Higgitt, and Pier Luigi Dragotti",
+	"comment": "IEEE Transactions on Image Processing, 2021.",
+	"checked": "",
+	"link": "https://ieeexplore.ieee.org/document/9511278"
+},{
+	"groups": ["Publications"],
+	"ptitle": "A Learning Based Approach to Separate Mixed X-Ray Images Associated with Artwork with Concealed Designs",
+	"stitle": "Wei Pu, Junjie Huang, Barak Sober, Nathan Daly, Catherine Higgitt, Pier Luigi Dragotti, Ingrid Daubechies, and Miguel Rodrigues",
+	"comment": "29th European Signal Processing Conference (EUSIPCO 2021)",
+	"checked": "",
+	"link": ""
+},{
+	"groups": ["Publications"],
+	"ptitle": "Image Separation with Side Information: A Connected Auto-Encoders Based Approach",
+	"stitle": "Wei Pu, Barak Sober, Nathan Daly, Zahra Sabetsarvestani, Catherine Higgitt, Ingrid Daubechies and Miguel R.D. Rodrigues",
+	"comment": "TIP (forthcoming).",
+	"checked": "",
+	"link": ""
+},{
+	"groups": ["Publications"],
+	"ptitle": "An ADMM Based Network for Hyperspectral Unmixing Tasks",
+	"stitle": "Chao Zhou, Miguel RD Rodrigues",
+	"comment": "",
+	"checked": "",
+	"link": "https://ieeexplore.ieee.org/abstract/document/9414555"
+},{
+	"groups": ["Publications"],
+	"ptitle": "ADMM-Based Hyperspectral Unmixing Networks for Abundance and Endmember Estimation",
+	"stitle": "Chao Zhou, Miguel R.D. Rodrigues",
+	"comment": "TGRS (under review)",
+	"checked": "",
+	"link": ""
+},{
+	"groups": ["Publications"],
+	"ptitle": "Blind Unmixing Using a Double Deep Image Prior",
+	"stitle": "Chao Zhou, Miguel R.D. Rodrigues ",
+	"comment": "ICASSP2022 (submitted)",
+	"checked": "",
+	"link": ""
+},{
+	"groups": ["Publications"],
+	"ptitle": "Leonardo’s Virgin of the Rocks in the National Gallery, London; new discoveries from macro X-ray fluorescence scanning and reflectance imaging spectroscopy",
+	"stitle": "M. Spring, M. Melchiorre Di Crescenzo, C. Higgitt and R. Billinge",
+	"comment": "National Gallery Technical Bulletin, 41, 2021, pp. 68-117",
+	"checked": "",
+	"link": ""
+},{
 	"groups": ["Presentations"],
 	"ptitle": "Science Breaks: When art meets science",
 	"stitle": "Pier Luigi Dragotti",
 	"comment": "Join Professor Pier Luigi Dragotti to hear about his work with the National Gallery and his AI augmented chemical analysis of Leonardo Da Vinci’s Virgin of the Rocks. 10 September 2020.",
-	"link": "https://www.youtube.com/watch?v=4pKXXRWbOVI"
+	"video": "https://www.youtube.com/embed/4pKXXRWbOVI"
+},{
+	"groups": ["Presentations"],
+	"ptitle": "AI, heritage science and the technical examination of cultural heritage artefacts",
+	"stitle": "Catherine Higgitt",
+	"comment": "8-11 June 2020 – The Alan Turing Institute: Artificial Intelligence in the Arts and Humanities | CogX 2020.",
+	"video": "https://www.youtube.com/embed/FnFf3ltEHho"
+},{
+	"groups": ["News"],
+	"ptitle": "New algorithm helps uncover forgotten figures beneath da Vinci painting",
+	"stitle": "Caroline Brogan, Martin Sayers [Digital Media Producer], Mariana Kneppers",
+	"comment": "Imperial College London Website: 04 February 2020",
+	"link": "https://www.imperial.ac.uk/news/195075/new-algorithm-helps-uncover-forgotten-figures/"
 }]
 	
 }
