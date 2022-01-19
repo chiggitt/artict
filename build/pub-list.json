@@ -20,84 +20,72 @@
 	"ptitle": "Revealing Hidden Drawings in Leonardo’s ‘the Virgin of the Rocks’ from Macro X-Ray Fluorescence Scanning Data through Element Line Localisation",
 	"stitle": "S. Yan, J. Huang, N. Daly, C. Higgitt and P. L. Dragotti",
 	"comment": "IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), May 2020.",
-	"checked": "",
 	"link": "https://ieeexplore.ieee.org/document/9054460"
 },{
 	"groups": ["Publications"],
 	"ptitle": "A connected auto-encoders based approach for image separation with side information: with applications to art investigation",
 	"stitle": "W. Pu, B. Sober, N. Daly, C. Higgitt, I. Daubechies, M. R. D. Rodrigues",
 	"comment": "IEEE International Conference on Acoustics, Speech and Signal Processing, 2020.",
-	"checked": "",
 	"link": "https://ieeexplore.ieee.org/document/9054651"
 },{
 	"groups": ["Publications"],
 	"ptitle": "Source Separation with Side Information Based on Gaussian Mixture Models With Application in Art Investigation",
 	"stitle": "Z. Sabetsarvestani, F. Renna, F. Kiraly and M. R. D. Rodrigues",
 	"comment": "IEEE Transactions on Signal Processing, 2020.",
-	"checked": "",
 	"link": "https://ieeexplore.ieee.org/document/8950399"
 },{
 	"groups": ["Publications"],
 	"ptitle": "Artificial intelligence for art investigation: Meeting the challenge of separating x-ray images of the Ghent Altarpiece",
 	"stitle": "Z. Sabetsarvestani, B. Sober, C. Higgitt, I. Daubechies, and M. R. D. Rodrigues",
 	"comment": "Science Advances, 2019.",
-	"checked": "",
 	"link": "https://advances.sciencemag.org/content/5/8/eaaw7416"
 },{
 	"groups": ["Publications"],
 	"ptitle": "Multi-Modal Dictionary Learning for Image Separation With Application In Art Investigation",
 	"stitle": "N. Deligiannis, J. F. C. Mota, B. Cornelis, M. R. D. Rodrigues, and I. Daubechies",
 	"comment": "IEEE Transactions on Image Processing, 2016.",
-	"checked": "",
 	"link": "href='https://ieeexplore.ieee.org/document/7725950"
 },{
 	"groups": ["Publications"],
 	"ptitle": "When de Prony met Leonardo: An automatic algorithm for chemical element extraction from macro X-Ray Fluorescence Data",
 	"stitle": "Su Yan, Junjie Huang, Nathan Daly, Catherine Higgitt, and Pier Luigi Dragotti",
 	"comment": "IEEE Transactions on Image Processing, 2021.",
-	"checked": "",
 	"link": "https://ieeexplore.ieee.org/document/9511278"
 },{
 	"groups": ["Publications"],
 	"ptitle": "A Learning Based Approach to Separate Mixed X-Ray Images Associated with Artwork with Concealed Designs",
 	"stitle": "Wei Pu, Junjie Huang, Barak Sober, Nathan Daly, Catherine Higgitt, Pier Luigi Dragotti, Ingrid Daubechies, and Miguel Rodrigues",
 	"comment": "29th European Signal Processing Conference (EUSIPCO 2021)",
-	"checked": "",
 	"link": ""
 },{
 	"groups": ["Publications"],
 	"ptitle": "Image Separation with Side Information: A Connected Auto-Encoders Based Approach",
 	"stitle": "Wei Pu, Barak Sober, Nathan Daly, Zahra Sabetsarvestani, Catherine Higgitt, Ingrid Daubechies and Miguel R.D. Rodrigues",
 	"comment": "TIP (forthcoming).",
-	"checked": "",
 	"link": ""
 },{
 	"groups": ["Publications"],
 	"ptitle": "An ADMM Based Network for Hyperspectral Unmixing Tasks",
 	"stitle": "Chao Zhou, Miguel RD Rodrigues",
 	"comment": "",
-	"checked": "",
 	"link": "https://ieeexplore.ieee.org/abstract/document/9414555"
 },{
 	"groups": ["Publications"],
 	"ptitle": "ADMM-Based Hyperspectral Unmixing Networks for Abundance and Endmember Estimation",
 	"stitle": "Chao Zhou, Miguel R.D. Rodrigues",
 	"comment": "TGRS (under review)",
-	"checked": "",
 	"link": ""
 },{
 	"groups": ["Publications"],
 	"ptitle": "Blind Unmixing Using a Double Deep Image Prior",
 	"stitle": "Chao Zhou, Miguel R.D. Rodrigues ",
 	"comment": "ICASSP2022 (submitted)",
-	"checked": "",
 	"link": ""
 },{
 	"groups": ["Publications"],
 	"ptitle": "Leonardo’s Virgin of the Rocks in the National Gallery, London; new discoveries from macro X-ray fluorescence scanning and reflectance imaging spectroscopy",
 	"stitle": "M. Spring, M. Melchiorre Di Crescenzo, C. Higgitt and R. Billinge",
 	"comment": "National Gallery Technical Bulletin, 41, 2021, pp. 68-117",
-	"checked": "",
 	"link": ""
 },{
 	"groups": ["Presentations"],
